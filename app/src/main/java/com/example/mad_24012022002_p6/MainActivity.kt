@@ -1,4 +1,4 @@
-package com.example.mad_24012012009_practical6
+package com.example.mad_24012022002_p6
 
 import android.graphics.drawable.AnimationDrawable
 import androidx.appcompat.app.AppCompatActivity
